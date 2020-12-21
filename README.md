@@ -1,4 +1,7 @@
-# WorkFit
+# Project Name: WorkFit
+
+## Hackathon: Hackedemic (HINT) 
+
 Locally setup instructions <br>
 ```clone this repo``` <br>
 do ```npm i``` <br>
